@@ -1,0 +1,8 @@
+,price,size_mb,user_rating,rating_count_tot,lang.num,sup_devices.num,ipadSc_urls.num
+price,1.0,0.07,0.01,-0.09,0.01,-0.01,0.12
+size_mb,0.07,1.0,0.1,0.16,0.09,0.02,0.36
+user_rating,0.01,0.1,1.0,0.24,0.11,0.09,0.15
+rating_count_tot,-0.09,0.16,0.24,1.0,0.25,-0.08,0.19
+lang.num,0.01,0.09,0.11,0.25,1.0,-0.11,0.11
+sup_devices.num,-0.01,0.02,0.09,-0.08,-0.11,1.0,0.06
+ipadSc_urls.num,0.12,0.36,0.15,0.19,0.11,0.06,1.0

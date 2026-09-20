@@ -1,0 +1,6 @@
+Apps analysed: 7,197
+Popularity proxy: total number of ratings (the dataset has no download counts).
+Most apps: Games (3,862 apps, 53.7% of all apps).
+Highest median number of ratings among genres with 30+ apps: Shopping (960).
+Free apps are 56.4% of the dataset. Median ratings: free 466 vs paid 193. Mean user rating: free 4.05 vs paid 4.05.
+Spearman correlation with rating count: price -0.09, size_mb 0.16, user_rating 0.24.
