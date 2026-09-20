@@ -30,11 +30,12 @@ The script cleans the data (removes duplicates, missing and invalid rows, treats
 5. Spearman correlation between numeric features (rank-based, so it is robust to the heavy skew in ratings)
 
 ## Results
-> Fill this section in after running the script, using the numbers in `outputs/findings.txt`. Write only what the output shows.
 
-- [Finding 1, e.g. the genre with the most apps and its share]
-- [Finding 2, e.g. free vs paid difference in median ratings]
-- [Finding 3, e.g. correlation between price or size and ratings]
+Apps analysed: 7,197
+Popularity proxy: total number of ratings (the dataset has no download counts).
+Most apps: Games (3,862 apps, 53.7% of all apps).
+Highest median number of ratings among genres with 30+ apps: Shopping (960).Free apps are 56.4% of the dataset. Median ratings: free 466 vs paid 193. Mean user rating: free 4.05 vs paid 4.05.
+Spearman correlation with rating count: price -0.09, size_mb 0.16, user_rating 0.24.
 
 ![Free vs paid](figures/free_vs_paid.png)
 ![Genres by median ratings](figures/genres_by_median_ratings.png)
